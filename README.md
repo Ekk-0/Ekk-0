@@ -1,1 +1,8 @@
-Great Hello's to everyone seeing this README. Have fun navigating this small github page. Hoping to add a lot of stuff in the future to come.
+Hi there 👋🏻,
+
+My name is Eben...
+
+I am a enthusiastic young software developer that is ready to change the world.
+I have been practicing with a large amount of different programming languages.
+
+Please have a look at my my-portfolios source code it is so far the biggest project I have ever made.
