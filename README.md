@@ -1,6 +1,6 @@
 # Hello there! :wave:
 
-My name is Eben, and I am a junior software developer specializing in full stack development. I am equipped with the necessary skills to design, develop, and maintain software systems. 
+My name is Eben, and I am a software developer specializing in full stack development. I am equipped with the necessary skills to design, develop, and maintain software systems. 
 
 ## Technical Skills
 I have experience working with both front-end and back-end technologies, including:
