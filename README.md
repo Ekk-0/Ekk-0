@@ -21,7 +21,7 @@ I am proficient in various development tools and frameworks such as Git, and am 
 What sets me apart is my strong problem-solving skills and my ability to quickly learn and adapt to new technologies. I am passionate about staying up-to-date with the latest industry trends and advancements, and I'm always looking for ways to improve my skills and knowledge.
 
 ## My mission
-As a junior software developer in full stack development, I am eager to contribute my skills and knowledge to help drive innovation and growth in this exciting and dynamic industry. I am confident that my proficiency in a variety of front-end and back-end technologies, combined with my passion for learning and problem-solving, makes me an excellent candidate for any software development role.
+As a software developer in full stack development, I am eager to contribute my skills and knowledge to help drive innovation and growth in this exciting and dynamic industry. I am confident that my proficiency in a variety of front-end and back-end technologies, combined with my passion for learning and problem-solving, makes me an excellent candidate for any software development role.
 
 ## Let's connect!
 I am always looking for new opportunities to collaborate with like-minded individuals, so feel free to reach out to me at ebenvosloo2001@gmail.com or connect with me on https://www.linkedin.com/in/eben-vosloo-b50a781b4/. Let's build something amazing together! :rocket:
